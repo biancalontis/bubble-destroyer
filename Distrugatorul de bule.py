@@ -121,6 +121,3 @@ c.create_text(MID_X, MID_Y, \
               text='GAME OVER', fill='white', font=('Helvetica',30))
 c.create_text(MID_X, MID_Y + 30, \
               text='Score: '+ str(score), fill='white')
-
-    
-    
